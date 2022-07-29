@@ -2,7 +2,7 @@
 
 <h1 align="center">CryptoProject</h1>
 
-<h3 align="center">Beer Project.</br>
+<h3 align="center">Beer Project.</br> </h3>
 
 - Instruments: **- API-JSON - UiKit - SnapKit - Github**
 
